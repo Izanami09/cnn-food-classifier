@@ -162,12 +162,11 @@ This project is licensed under the MIT License
 
 ## 📬 Contact
 
-* Rohan Shah
+* Rohan Kumar Shah
 * 📧 rohan123.rs8@gmail.com
-* 🌐 LinkedIn
-* 🐙 GitHub
+* 🐙 Izanami09
 
-* Made with ❤️ using Streamlit & Machine Learning
+  - Made with ❤️ using Streamlit & Machine Learning
 
 
 
