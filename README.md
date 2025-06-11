@@ -160,6 +160,15 @@ results = train(
 ## License
 This project is licensed under the MIT License
 
+## 📬 Contact
+
+* Rohan Shah
+* 📧 rohan123.rs8@gmail.com
+* 🌐 LinkedIn
+* 🐙 GitHub
+
+* Made with ❤️ using Streamlit & Machine Learning
+
 
 
 
